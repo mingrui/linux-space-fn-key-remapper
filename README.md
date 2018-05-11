@@ -1,5 +1,6 @@
 # linux-space-fn-key-remapper
 turn space + h j k l => left, down, up, right
+turn spacebar to a vim navigation fn key
 
 Install this:
 
